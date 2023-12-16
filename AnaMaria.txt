@@ -1,3 +1,5 @@
 Cedula: 78965421
 Nombres: Ana Maria
 Apellidos: Perez Perez
+Fecha nacimiento: 31/05/95
+Telefono: 3208521404
